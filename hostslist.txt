@@ -1,7 +1,7 @@
-autocad
-solidworks
-photoshop
-yungengxin
-microsoft
-wps
-qq
+autocad.txt
+solidworks.txt
+photoshop.txt
+yungengxin.txt
+microsoft.txt
+wps.txt
+qq.txt
