@@ -1,3 +1,4 @@
+#autocad disable update and connect internet
 127.0.0.1 registeronce.autodesk.com
 127.0.0.1 genuine-software.autodesk.com
 127.0.0.1 app.autocad360.com
@@ -8,3 +9,4 @@
 127.0.0.1 docs.autodesk.com
 127.0.0.1 emsfs.autodesk.com
 127.0.0.1 cadservices.autodesk.com
+127.0.0.1 update.delivery.autodesk.com
