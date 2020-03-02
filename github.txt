@@ -1,0 +1,9 @@
+127.0.0.1 raw.githubusercontent.com
+127.0.0.1 github.map.fastly.net
+127.0.0.1 github.com
+127.0.0.1 www.github.com
+127.0.0.1 avatars0.githubusercontent.com
+127.0.0.1 avatars1.githubusercontent.com
+127.0.0.1 avatars2.githubusercontent.com
+127.0.0.1 api.github.com
+127.0.0.1 github.githubassets.com
