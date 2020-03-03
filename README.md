@@ -1,2 +1,1 @@
-# reghost
-some soft reg host
+Disabling certain software to use the Internet makes you look like a superhero!
