@@ -1,3 +1,4 @@
+#github
 127.0.0.1 raw.githubusercontent.com
 127.0.0.1 github.map.fastly.net
 127.0.0.1 github.com

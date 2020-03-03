@@ -1,3 +1,4 @@
+#solidworks
 127.0.0.1 performance.solidworks.com
 127.0.0.1 www.solidworks.com
 127.0.0.1 webapps.solidworks.com
